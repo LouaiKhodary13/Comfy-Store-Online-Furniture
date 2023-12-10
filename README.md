@@ -28,7 +28,7 @@ Check out the live demo [here](https://comfy-house-store.netlify.app/).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/comfy-house.git
+   git clone https://github.com/LouaiKhodary13/Comfy-Store-Online-Furniture.git
    ```
 
 2. Open the project directory.
